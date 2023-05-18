@@ -1,0 +1,35 @@
+﻿Сборка начата 19.04.2023 13:03:59.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab09.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_Lab09.cpp
+         SE_Lab09.cpp
+     1>D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(7,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(28,49): warning C4305: аргумент: усечение из "double" в "float"
+     1>D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(29,56): warning C4305: аргумент: усечение из "double" в "float"
+     1>D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(30,61): warning C4305: аргумент: усечение из "double" в "float"
+     1>D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(31,87): warning C4305: аргумент: усечение из "double" в "float"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\Debug\SE_Lab09.exe" /INCREMENTAL /ILK:"Debug\SE_Lab09.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\Debug\SE_Lab09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\Debug\SE_Lab09.lib" /MACHINE:X86 Debug\SE_Lab09.obj
+         Debug\Varparm.obj
+         SE_Lab09.vcxproj -> D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\Debug\SE_Lab09.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab09.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab09.tlog\SE_Lab09.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(7,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(28,49): warning C4305: аргумент: усечение из "double" в "float"
+         D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(29,56): warning C4305: аргумент: усечение из "double" в "float"
+         D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(30,61): warning C4305: аргумент: усечение из "double" в "float"
+         D:\Учеба\Constructure_of_Software\Labs\Spring_semester\Lab09\SE_Lab09\SE_Lab09\SE_Lab09.cpp(31,87): warning C4305: аргумент: усечение из "double" в "float"
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:02.74

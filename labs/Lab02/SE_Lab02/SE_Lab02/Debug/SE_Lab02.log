@@ -1,0 +1,19 @@
+﻿Сборка начата 24.02.2023 17:41:17.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\SE_Lab02\SE_Lab02.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab02.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\Debug\SE_Lab02.exe" /INCREMENTAL /ILK:"Debug\SE_Lab02.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\Debug\SE_Lab02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\Debug\SE_Lab02.lib" /MACHINE:X86 Debug\SE_Lab02.obj
+         SE_Lab02.vcxproj -> D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\Debug\SE_Lab02.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab02.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab02.tlog\SE_Lab02.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\Constructure of Software\Labs\Spring semester\Lab02\SE_Lab02\SE_Lab02\SE_Lab02.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.55
